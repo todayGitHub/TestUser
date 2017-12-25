@@ -14,7 +14,7 @@ public class Welcome implements Mokuai{
 	public  void print(){
 		System.out.println("欢迎使用neuedu用户管理系统");
 		System.out.println("===================");
-		System.out.println("用户登录-------------1");
+		System.out.println("用户登录-------------4");
 		System.out.println("用户注册-------------2");
 		System.out.println("用户退出-------------3");		
 		used();
